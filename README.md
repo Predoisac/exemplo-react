@@ -1,2 +1,5 @@
-# exemplo-react
-aulas do react
+# React + Vite
+
+(descrever todo o processo)
+
+clonei o repo

@@ -1,8 +1,10 @@
+import './style.css'
+
 function Header() {
     return(
         <header>
         <h1>
-          Minha primeira página em React
+          Rick and Morty
         </h1>
       </header>
     )

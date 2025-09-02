@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer id="ftr">
-            Minha primeira página. &copy; Todos os direitos reservados.
+            Todos os direitos reservados &copy;. Pedro Isac.
         </footer>
     )
 }
